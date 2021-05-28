@@ -1,2 +1,2 @@
 # S.I
-Trabalho autoral de como o âmbito de sistemas de informações demonstra ser beneficente em um escritório contábil;
+Trabalho autoral demonstrando como o âmbito de sistemas de informações é beneficente nas diversas áreas do mercado de trabalho, incluindo um escritório contábil;
